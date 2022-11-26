@@ -2,7 +2,7 @@
 Clipboard Landing Page , Responsive Template Challenge with HTML And CSS without any framework
 
 Mobile Layout:
-![Output](/Output-screenshots/Mobile.png)
+![Output](/Output-Screenshots/Mobile.png)
 
 Desktop Layout:
-![Output](/Output-screenshots/Desktop.png)
+![Output](/Output-Screenshots/Desktop.png)
