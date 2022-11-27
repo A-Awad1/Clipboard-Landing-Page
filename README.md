@@ -3,8 +3,8 @@ Clipboard Landing Page , Responsive Template Challenge with HTML And CSS without
 
 Mobile Layout:
 
-![Output](/Output-Screenshots/Mobile.png)
+![Output](/My-Output-Screenshots/Mobile.png)
 
 Desktop Layout:
 
-![Output](/Output-Screenshots/Desktop.png)
+![Output](/My-Output-Screenshots/Desktop.png)
